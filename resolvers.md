@@ -16,3 +16,9 @@ To use that list, add this to the `[sources]` section of your
 DNS resolver with ALFIS and OpenNIC.
 
 sdns://AwQAAAAAAAAACTIuMjYuMi45MQARZG5zLnJ1c3R5cmF2ZW4ucHc
+
+## rustyraven-doh
+
+DNS resolver with ALFIS and OpenNIC.
+
+sdns://AgQAAAAAAAAACTIuMjYuMi45MQARZG5zLnJ1c3R5cmF2ZW4ucHcKL2Rucy1xdWVyeQ
